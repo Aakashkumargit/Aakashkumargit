@@ -25,6 +25,37 @@
 
 ---
 
+## 🚀 My Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="250" style="border: 2px solid #4F46E5; border-radius: 15px; padding: 15px;">
+        <h3>🩺 V-Doc</h3>
+        <p>A virtual doctor app for text, voice & image diagnosis.<br/>AI predictions for health risks.</p>
+        <p><strong>Skills:</strong> Python, FastAPI, OpenCV, ML ,Gradio </p>
+      </td>
+      <td align="center" width="250" style="border: 2px solid #4F46E5; border-radius: 15px; padding: 15px;">
+        <h3>🪖 Smart Helmet App</h3>
+        <p>AI helmet with accident detection & voice commands.<br/>Real-time alerts to emergency contacts.</p>
+        <p><strong>Skills:</strong> Java , Python, Sensors, Arduino </p>
+      </td>
+      <td align="center" width="250" style="border: 2px solid #4F46E5; border-radius: 15px; padding: 15px;">
+        <h3>📡 Real-Time Monitoring system</h3>
+        <p>Live monitoring system with dashboards & notifications.<br/>Useful for health or industry.</p>
+        <p><strong>Skills:</strong> MERN Stack </p>
+      </td>
+      <td align="center" width="250" style="border: 2px solid #4F46E5; border-radius: 15px; padding: 15px;">
+        <h3>🗣️ Voice Assistant</h3>
+        <p>Custom AI voice assistant for daily tasks.<br/>Hinglish support & text-to-speech.</p>
+        <p><strong>Skills:</strong> Python, NLP, Speech AI, gTTS</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🧩 **Languages & Tools**
 
 ### 🟢 Programming Languages
